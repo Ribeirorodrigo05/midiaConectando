@@ -1,0 +1,10 @@
+TypeError: Router.use() requires a middleware function but got a Object
+R: verificar se o arquivo está sendo exportado com usando o module.exports = router;
+ verificar se no módulo server.js está recebendo os dados
+
+
+ Error: Illegal arguments: string, undefined
+ R: verificar se o password e o email está cadastrado corretamente 
+
+ Erro Unauthorized 
+ R: conferir rota de login para conrreção de erro de sintaxe

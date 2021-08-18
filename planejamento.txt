@@ -1,0 +1,12 @@
+[x] register 
+[x] login
+[x] Criação JWT
+[x] Criação de rota privada com Jsonwebtoken
+
+//Profile
+[x] Criação da rota Profile
+[x] Criação do Profile
+[x] Update do profile
+[x] delete do Profile
+
+//Post
